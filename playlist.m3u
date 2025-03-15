@@ -140,7 +140,7 @@ http://10.10.10.1:8888/udp/239.45.1.117:5140
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视",延边卫视
 http://10.10.10.1:8888/udp/239.45.0.39:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方",五星体育
-http://10.10.10.1:8888/udp/239.45.3.210:5140
+http://10.10.10.1:8888/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="地方",财富天下
 http://10.10.10.1:8888/udp/233.18.204.41:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓

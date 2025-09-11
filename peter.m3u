@@ -195,7 +195,7 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225739/main.m3u8
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225754/main.m3u8
 #EXTINF:-1 tvg-name="咪咕体育25" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="网络",咪咕体育25
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225756/main.m3u8
-#EXTINF:-1 tvg-name="咪咕体育26" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="网络",咪咕体育26
+#EXTINF:-1 tvg-name="咪咕体育26" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="网络",咪咕体育26
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225758/main.m3u8
 #EXTINF:-1 tvg-name="咪咕体育27" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="网络",咪咕体育27
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225760/main.m3u8
